@@ -1,2 +1,2 @@
-# QC-francophone-
+# QCE-Alliance Québec 
 Guild command 
